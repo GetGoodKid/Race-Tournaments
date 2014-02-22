@@ -1,0 +1,15 @@
+#######################################################
+#                                                     #
+#         Race Tournaments Configuration v4.0         #
+#                                                     #
+#######################################################
+
+# Turn on debug mode (outputs errors to console)
+debug: false
+
+# (default is a golden pickaxe)
+race-line-tool: 285
+
+# Chat configuration
+chat-prefix: "&3[Races]&9 "
+use-prefix: true

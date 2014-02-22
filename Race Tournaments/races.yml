@@ -1,0 +1,29 @@
+default: easy-track
+easy-track:
+  name: Easy Track
+  free-horse: true
+  min-players: 2
+  max-players: 20
+  auto-start: true
+  auto-leave: true
+  auto-start-timer: 30
+  auto-leave-timer: 30
+  start-line-material: 85
+  start-line:
+    world: ''
+    corners: '[0, 0, 0, 0, 0, 0]'
+  finish-line:
+    world: ''
+    corners: '[0, 0, 0, 0, 0, 0]'
+  rewards:
+    all: '[25]'
+    1st: '[1000, blaze-rod-5, bone-5]'
+    2nd: '[250, blaze-rod-one]'
+    3rd: '[100]'
+  spawn:
+    world: ''
+    x: 0
+    y: 0
+    z: 0
+    yaw: 0
+    pitch: 0

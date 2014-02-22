@@ -1,0 +1,18 @@
+bone-5:
+    # The ID of the material.
+    id: 352
+
+    # Amount of item to give
+    amount: 5
+
+blaze-rod-5:
+    id: 369
+    amount: 5
+
+blaze-rod-one:
+    id: 369
+    amount: 1
+
+wool:
+    id: 35
+    amount: 8

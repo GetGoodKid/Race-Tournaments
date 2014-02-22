@@ -1,0 +1,54 @@
+#######################################################
+#                                                     #
+#         Race Tournaments Configuration v4.0         #
+#                                                     #
+#######################################################
+
+help:
+    - "&b/rt help &7[page]&9 - Displays race commands."
+    - "&b/rt me&9 - Displays your race info."
+    - "&b/rt list&9 - Displays a list of races."
+    - "&b/rt race &7[race]&9 - Displays race info."
+    - "&b/rt racers &7[race]&9 - Displays current racers."
+    - "&b/rt winners &7[race]&9 - Displays race winners."
+    - "&b/rt join &7[race]&9 - Joins the race queue."
+    - "&b/rt leave&9 - Leaves the current race."
+    - "&b/rt spawn&9 - Teleports to the race's spawn."
+
+admin-help:
+    - "&b/rt start &7[race]&9 - Starts the race."
+    - "&b/rt end &7[race]&9 - Ends the race."
+    - "&b/rt kick &a<player>&9 - Kicks the player from the race."
+    - "&b/rt create &a<race>&9 - Creates a race."
+    - "&b/rt delete &a<race>&9 - Deletes a race."
+    - "&b/rt set &7[help]&9 - Displays set commands."
+    - "&b/rt clear &7[help]&9 - Displays clear commands."
+    - "&b/rt toggle &7[help]&9 - Displays toggle commands."
+    - "&b/rt reload&9 - Reloads the configuration files."
+
+set-help:
+    - ""
+    - "&aSet Help:"
+    - "&b/rt set autostarttimer &a<seconds>&7 [race]"
+    - "&b/rt set autoleavetimer &a<seconds>&7 [race]"
+    - "&b/rt set minplayers &a<number>&7 [race]"
+    - "&b/rt set maxplayers &a<number>&7 [race]"
+    - "&b/rt set default &7[race]"
+    - "&b/rt set spawn &7[race]"
+    - "&b/rt set start &7[race]"
+    - "&b/rt set finish &7[race]"
+
+clear-help:
+    - ""
+    - "&aClear Help:"
+    - "&b/rt clear default"
+    - "&b/rt clear spawn &7[race]"
+    - "&b/rt clear start &7[race]"
+    - "&b/rt clear finish &7[race]"
+    
+toggle-help:
+    - ""
+    - "&aToggle Help:"
+    - "&b/rt toggle autostart &7[race]"
+    - "&b/rt toggle autoleave &7[race]"
+    - "&b/rt toggle horse &7[race]"

@@ -1,0 +1,27 @@
+#######################################################
+#                                                     #
+#         Race Tournaments Configuration v4.0         #
+#                                                     #
+#######################################################
+
+no-user:                "You are not allowed to use race commands!"
+no-admin:               "You are not allowed to use admin commands!"
+no-races-yet:           "&aThere are no races yet."
+no-default-race:        "&aNo default race set."
+no-race-joined:         "&aYou are not in a race."
+
+race-without-racers:    "has no racers yet!"
+race-without-winners:   "has no winners yet!"
+race-without-spawn:     "has no spawn set."
+race-does-not-exist:    "does not exist."
+race-joined:            "joined."
+race-joined-already:    "already joined!"
+race-joined-other-race: "Please leave your current race first."
+race-full:              "is full!"
+race-in-progress:       "still in progress!"
+race-left:              "left!"
+race-spawn:             "Teleported to spawn."
+race-kicked:            "You have been kicked from the race."
+race-finished:          "finished!"
+
+player-only-command:    "This command can only be run by a &bplayer."
